@@ -1,0 +1,7 @@
+G:\CSharp-Problem-Solve\JaggedArray _5\JaggedArray _5\bin\Debug\JaggedArray _5.exe.config
+G:\CSharp-Problem-Solve\JaggedArray _5\JaggedArray _5\bin\Debug\JaggedArray _5.exe
+G:\CSharp-Problem-Solve\JaggedArray _5\JaggedArray _5\bin\Debug\JaggedArray _5.pdb
+G:\CSharp-Problem-Solve\JaggedArray _5\JaggedArray _5\obj\Debug\JaggedArray _5.csproj.AssemblyReference.cache
+G:\CSharp-Problem-Solve\JaggedArray _5\JaggedArray _5\obj\Debug\JaggedArray _5.csproj.CoreCompileInputs.cache
+G:\CSharp-Problem-Solve\JaggedArray _5\JaggedArray _5\obj\Debug\JaggedArray _5.exe
+G:\CSharp-Problem-Solve\JaggedArray _5\JaggedArray _5\obj\Debug\JaggedArray _5.pdb
